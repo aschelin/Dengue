@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="BannerDengue.png" >
+  <img src="BannersDengue.png" >
 </p>
