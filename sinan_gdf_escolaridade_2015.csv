@@ -1,0 +1,73 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Distrito Federal
+Casos Prováveis por Semana epidem. notificação e Escolaridade
+Período:2015
+"Semana epidem. notificação";"Ign/Branco";"Analfabeto";"1ª a 4ª série incompleta do EF";"4ª série completa do EF";"5ª a 8ª série incompleta do EF";"Ensino fundamental completo";"Ensino médio incompleto";"Ensino médio completo";"Educação superior incompleta";"Educação superior completa";"Não se aplica";"Total"
+"Semana 01";41;-;3;1;1;1;1;1;-;-;2;51
+"Semana 02";47;-;1;1;1;-;-;5;1;2;-;58
+"Semana 03";92;-;-;2;2;2;5;2;-;3;3;111
+"Semana 04";54;-;2;-;1;2;2;7;-;2;3;73
+"Semana 05";89;1;1;-;2;1;2;5;2;1;6;110
+"Semana 06";146;1;3;1;2;3;2;7;1;3;9;178
+"Semana 07";89;-;-;-;2;1;3;1;-;5;8;109
+"Semana 08";181;-;-;-;-;-;3;9;2;-;10;205
+"Semana 09";168;-;1;-;4;3;1;8;1;6;4;196
+"Semana 10";186;1;2;1;2;1;3;9;-;4;10;219
+"Semana 11";154;1;1;2;5;-;4;7;2;5;5;186
+"Semana 12";248;-;1;1;4;1;4;8;3;2;11;283
+"Semana 13";195;1;1;1;3;5;4;6;4;6;7;233
+"Semana 14";328;-;3;-;10;7;5;5;6;7;24;395
+"Semana 15";457;1;4;2;13;8;11;17;6;13;24;556
+"Semana 16";491;-;4;2;14;10;15;16;9;9;28;598
+"Semana 17";538;-;8;9;9;7;7;16;8;11;30;643
+"Semana 18";703;-;11;7;15;7;10;23;6;10;28;820
+"Semana 19";476;-;6;3;13;12;10;17;6;9;31;583
+"Semana 20";386;2;5;7;10;5;11;16;7;6;31;486
+"Semana 21";463;1;4;3;14;5;17;21;6;7;25;566
+"Semana 22";313;1;6;-;9;4;8;7;3;10;22;383
+"Semana 23";378;-;9;1;11;6;18;13;4;8;20;468
+"Semana 24";353;-;1;1;6;5;2;12;3;10;27;420
+"Semana 25";267;-;3;3;7;-;5;10;-;6;15;316
+"Semana 26";168;-;2;2;8;2;6;7;2;9;8;214
+"Semana 27";98;1;-;-;3;3;-;-;1;5;3;114
+"Semana 28";104;-;2;1;3;1;4;1;1;4;2;123
+"Semana 29";81;-;1;-;1;3;1;5;-;3;6;101
+"Semana 30";70;-;3;-;-;2;3;1;1;1;8;89
+"Semana 31";23;-;1;1;2;-;-;2;-;1;4;34
+"Semana 32";46;-;-;1;-;-;4;1;-;-;4;56
+"Semana 33";68;-;-;-;1;-;-;1;-;-;8;78
+"Semana 34";52;-;-;-;-;2;1;1;-;-;2;58
+"Semana 35";43;-;1;-;-;-;-;-;1;-;-;45
+"Semana 36";19;-;1;-;-;-;-;-;-;-;1;21
+"Semana 37";13;-;-;-;-;-;1;-;-;-;1;15
+"Semana 38";9;-;1;-;-;1;-;-;-;1;-;12
+"Semana 39";22;-;-;-;-;1;-;-;1;-;5;29
+"Semana 40";45;-;-;-;1;-;-;1;-;-;7;54
+"Semana 41";24;-;1;-;-;-;-;-;1;-;3;29
+"Semana 42";13;-;-;-;-;-;-;1;-;-;1;15
+"Semana 43";23;-;-;-;1;-;-;-;-;-;2;26
+"Semana 44";24;-;-;-;-;-;-;-;-;-;5;29
+"Semana 45";57;-;-;-;1;-;-;-;-;2;2;62
+"Semana 46";98;-;-;-;1;2;1;1;-;1;2;106
+"Semana 47";37;-;-;-;-;-;1;2;-;-;5;45
+"Semana 48";28;-;1;-;2;2;3;2;-;1;5;44
+"Semana 49";51;-;-;-;1;-;-;3;1;2;5;63
+"Semana 50";90;-;1;2;1;1;1;3;3;1;4;107
+"Semana 51";70;-;4;1;-;3;1;5;2;3;6;95
+"Semana 52";75;-;1;-;6;2;-;8;1;1;13;107
+"Total";8294;11;100;56;192;121;180;293;95;180;495;10017
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, inclusive os casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ *Data da publicação dos dados 11/2020.
+ 

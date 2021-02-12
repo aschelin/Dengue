@@ -1,0 +1,16 @@
+CNES - Recursos Físicos - Hospitalar - Leitos de internação - Pernambuco
+Qtd existente por Leitos obstétricos e Ano/mês compet.
+Região de Saúde (CIR): 26009 Petrolina
+Período:2015
+"Leitos obstétricos";"2015/Jan";"2015/Fev";"2015/Mar";"2015/Abr";"2015/Mai";"2015/Jun";"2015/Jul";"2015/Ago";"2015/Set";"2015/Out";"2015/Nov";"2015/Dez"
+"Obstetrícia Cirúrgica";28;28;28;28;28;28;29;29;29;29;29;29
+"Obstetrícia Clínica";103;103;103;103;103;103;103;103;103;103;103;103
+"Total";131;131;131;131;131;131;132;132;132;132;132;132
+ Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
+ Nota:
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+ 
+ Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+ De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+ A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+ 
