@@ -1,6 +1,3 @@
-DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Distrito Federal
-Casos Prováveis por Semana epidem. notificação e Faixa Etária
-Período:2016
 "Semana epidem. notificação";"Em branco/IGN";"<1 Ano";"1-4";"5-9";"10-14";"15-19";"20-39";"40-59";"60-64";"65-69";"70-79";"80 e +";"Total"
 "Semana 01";-;3;11;17;27;38;134;85;10;9;4;-;338
 "Semana 02";-;3;7;17;27;27;168;119;14;14;11;2;409
@@ -54,20 +51,3 @@ Período:2016
 "Semana 50";-;-;1;4;2;3;15;10;1;-;-;-;36
 "Semana 51";-;-;1;-;3;5;11;10;1;-;2;-;33
 "Semana 52";-;2;1;1;-;4;16;8;1;-;-;-;33
-"Total";1;294;440;867;1384;1703;7115;4743;637;405;413;135;18137
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Incluídas notificações de indivíduos residentes no Brasil, inclusive os casos descartados.
- As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
- Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para cálculo da incidência utilize locais de residência.
- Dados de 2014 atualizados em 13/07/2015.
- Dados de 2015 atualizados em 27/09/2016.
- Dados de 2016 atualizados em 06/07/2017.
- Dados de 2017 atualizados em 18/07/2018.
- Dados de 2018 atualizados em 01/10/2019.
- Dados de 2019 atualizados em 10/07/2020.
- *Data da publicação dos dados 11/2020.
- 
