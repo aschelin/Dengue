@@ -2,7 +2,7 @@
   <img src="BannersDengue.png" >
 </p>
 
-In this project we analyze data concerning **dengue cases** in the Federal District of Brazil. 
+In this project we analyse data concerning **dengue cases** in the Federal District of Brazil. 
 
 Among the various health problems that affect Brazil and, particularly the central west, Dengue stands out as one of the main challenges to be overcome. According to data from the World Health Organization (WHO), 2/5 of the world population is subjected to contracting the disease. 
 
